@@ -17,3 +17,12 @@ widget2:
   text: 'Meine Projekte'
 permalink: /index.html
 ---
+
+## About.me
+
+I'am working as an `agile` `software` `developer`.  
+
+  * In my point of view...  
+    * ...`agile` means *collaboration, lean, iterative and interactive* (as defined in the [*agilemanifesto.org*](http://agilemanifesto.org)) and not *chaos*...
+    * ...`software` means in my case *mostly hidden backend systems* and not *fancy UIs*...
+    * ...`developer` means for me a sort of *software crafstman*, because without craftmanship and *real doing* nothing is built.
