@@ -7,7 +7,9 @@
   side: left
   dropdown:
   - title: "Janos"
-    url: "/projects/janos/"
+    url: "https://github.com/mibo/janos"
+  - title: "JaxRs-Doc"
+    url: "https://github.com/mibo/jaxrs-doc"
 
 - title: Blog
   url: "/blog/"
